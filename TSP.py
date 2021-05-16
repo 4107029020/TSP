@@ -5,6 +5,7 @@ Created on Tue May 11 22:40:14 2021
 
 @author: chenyuchun
 """
+# 改寫自：https://github.com/blue0107/Genetic-Algorithm-for-TSP
 import time
 import numpy as np
 from sys import maxsize
